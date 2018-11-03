@@ -1,0 +1,6 @@
+﻿  Source.c
+c:\users\user\desktop\程式作業\11 08\107360242_耀展\p30\source\source.c(13): warning C4047: '函式': 'int **' 與 'int (*)[3]' 間接取值的層級不同
+c:\users\user\desktop\程式作業\11 08\107360242_耀展\p30\source\source.c(13): warning C4024: 'qwer': 型式和實質參數 1 不同的類型
+c:\users\user\desktop\程式作業\11 08\107360242_耀展\p30\source\source.c(31): warning C4047: '=': 'int' 與 'int *' 間接取值的層級不同
+c:\users\user\desktop\程式作業\11 08\107360242_耀展\p30\source\source.c(33): warning C4047: '=': 'int *' 與 'int' 間接取值的層級不同
+  Project1.vcxproj -> C:\Users\user\Desktop\程式作業\11 08\107360242_耀展\P30\HW\Project1\Debug\Project1.exe
